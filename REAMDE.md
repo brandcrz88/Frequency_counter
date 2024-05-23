@@ -1,3 +1,11 @@
+## Frequency Counter
+
+Why do we need an edge detector?
+
+
+
+
+
 The main things to do are
 
 - Writting the verilog modules
