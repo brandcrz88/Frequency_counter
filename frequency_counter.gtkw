@@ -1,0 +1,39 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Fri May 24 20:05:12 2024
+[*]
+[dumpfile] "/home/brandon/verilog/frequency_counter/frequency_counter.vcd"
+[dumpfile_mtime] "Fri May 24 07:32:15 2024"
+[dumpfile_size] 1003189
+[savefile] "/home/brandon/verilog/frequency_counter/frequency_counter.gtkw"
+[timestart] 0
+[size] 1920 1043
+[pos] -59 -63
+*-26.335962 413300000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] frequency_counter.
+[sst_width] 233
+[signals_width] 217
+[sst_expanded] 1
+[sst_vpaned_height] 298
+@24
+frequency_counter.period[11:0]
+@28
+frequency_counter.clk
+frequency_counter.reset
+frequency_counter.signal
+frequency_counter.leading_edge_detect
+frequency_counter.state[1:0]
+@8022
+frequency_counter.clk_counter[11:0]
+@24
+frequency_counter.edge_counter[6:0]
+@22
+frequency_counter.edge_counter[6:0]
+frequency_counter.ten_count[3:0]
+frequency_counter.unit_count[3:0]
+frequency_counter.seven_segment0.ten_count_reg[3:0]
+frequency_counter.seven_segment0.unit_count_reg[3:0]
+@25
+frequency_counter.segments[6:0]
+[pattern_trace] 1
+[pattern_trace] 0
