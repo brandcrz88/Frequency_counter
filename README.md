@@ -42,7 +42,8 @@ The minimum integer number that the pmod can show is 01, and the maximum is 99 (
 
 ![Screenshot from 2024-05-24 01-54-18](https://github.com/brandcrz88/Frequency_counter/assets/140255993/55cd0ff7-7b07-4a7d-bcf7-b3ab37ae49c6)
 
-Explanation
+In the image above (sorry for the quality), it can be seen that the period is set as 1200 - 1. The leading_edge_detect is taking the pos edges of the incoming signal, which are counted by the edge_counter register. After 1199 clock cycles, the clock cycles fall back to zero, and the edge count sents its value to the count registers of units and tens. These values are sent to the segments module and shown in the pmod display.
+
 
 ## The Makefile
 
