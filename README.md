@@ -72,4 +72,4 @@ The "fpga" directory contains its own Makefile that automates the synthesis proc
 
 ## License
 
-This project is part of the Zero to ASIC Course and is licensed with [Apache 2]. (https://github.com/brandcrz88/Frequency_counter/blob/main/LICENSE)
+This project is part of the Zero to ASIC Course and is licensed with [Apache 2](https://github.com/brandcrz88/Frequency_counter/blob/main/LICENSE).
