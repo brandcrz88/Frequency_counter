@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1716535934" />
+    <testcase name="test_all" classname="test.test_frequency_counter" file="/home/brandon/verilog/frequency_counter/test/test_frequency_counter.py" lineno="30" time="0.9184176921844482" sim_time_ns="1200285.321" ratio_time="1306905.7044677918" />
+  </testsuite>
+</testsuites>

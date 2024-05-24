@@ -23,7 +23,7 @@ module seven_segment (
 		end else begin
 			if(load) begin
 				ten_count_reg  <= ten_count;
-				unit_count_reg <= unit_count
+				unit_count_reg <= unit_count;
 			end
 
 			digit <= !digit; 
